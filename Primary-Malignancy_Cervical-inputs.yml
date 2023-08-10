@@ -1,0 +1,27 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/primary-malignancy_cervical-endocervix---primary.py
+inputModule3:
+  class: File
+  path: python/endocervical-primary-malignancy_cervical---primary.py
+inputModule4:
+  class: File
+  path: python/primary-malignancy_cervical-cervix---primary.py
+inputModule5:
+  class: File
+  path: python/other-primary-malignancy_cervical---primary.py
+inputModule6:
+  class: File
+  path: python/primary-malignancy_cervical---primary.py
+inputModule7:
+  class: File
+  path: python/malignant-neoplasm-cervix-uteri-primary-malignancy_cervical---secondary.py
+inputModule8:
+  class: File
+  path: python/output-cases.py
